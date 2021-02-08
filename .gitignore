@@ -1,0 +1,9 @@
+
+# compiled output
+/server
+proxy.json
+
+# dependencies
+/node_modules
+
+
